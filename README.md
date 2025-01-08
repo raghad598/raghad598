@@ -8,7 +8,7 @@
 
 ## About Me 🌟
 
-I'm Raghad Abdul Rahim!😊, First -year **Artificial Intelligence Engineering**
+I'm Raghad Abdul Rahim!😊, First-year **Artificial Intelligence Engineering**
 student, selected student into the Foundation track of the **MIT Emerging Talent**
 programe for Computer Science and Data Science.
 
