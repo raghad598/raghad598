@@ -1,9 +1,11 @@
 # Hello, World! ☘
 
 ---
-# Welcome to my GitHub profile!
+
+# Welcome to my GitHub profile
 
 ---
+
 # About Me 🌟
 
 I'm Raghad Abdul Rahim!😊, First -year **Artificial Intelligence Engineering** student, selected student into the Foundation track of the **MIT Emerging Talent** programe for Computer Science and Data Science.
@@ -17,21 +19,25 @@ leveraging my skills in programming and data analysis, I aim to build innovative
 create meaningful change."✨
 
 ---
-# 💡 Interests:
+
+# 💡 Interests
 
 Generative AI 🤖
 
 Data Analysis 📊
 
 ---
-# 📚 Current Endeavors:
+
+# 📚 Current Endeavors
 
 Completing a Data Analysis specialization on Coursera.
 
 Actively building projects in Python and expanding programming skills.
 
 ---
-# 🔧 Skills:
+
+# 🔧 Skills
+
 Programming: Python, SQL.
 
 Tools: Jupyter, TensorFlow, Git.
@@ -39,11 +45,11 @@ Tools: Jupyter, TensorFlow, Git.
 Specialties: AI, Data Analysis.
 
 ---
+
 # Let's Connect! 🌟
 
 📧 Email:raghadsalah526@gmail.com
 
-💼 LinkedIn:https://www.linkedin.com/in/raghad-abdul-rahim-03530b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+💼 LinkedIn:<https://www.linkedin.com/in/raghad-abdul-rahim-03530b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app>
 
 🌵 WhatsApp:+972 59-721-5937
-
